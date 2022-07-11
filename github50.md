@@ -13,10 +13,15 @@
 ## github
 
 ## url
+<<<<<<< HEAD
 
 ## pull test 2
 
 ## which version, merge conflicts
+=======
+## conflict
+# go
+>>>>>>> 1fa177d6e18c10e597180555ea4a414db68fb131
 
 
 
