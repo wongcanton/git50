@@ -6,7 +6,7 @@
 4. `commit`
 5. `push`
 6. `status`
-7. 
+7. `pull`
 
 
 
